@@ -25,8 +25,9 @@ div{
   padding: 0;
 }
 body{
- background-image: url('https://img.freepik.com/premium-photo/cyber-city-wallpaper_758367-6463.jpg');  
-   background-repeat: repeat;
+ background-image: url('https://imgs.search.brave.com/3mGwtNgT41KgoHLeguAu8CBk17rTLV_wMnLVzO6H74w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzkzLzdj/L2Y0LzkzN2NmNDBh/NGM2Yjc0Y2IzZDMy/MzBlNGE4ZGE0Yzcy/LmpwZw');  
+   background-size: contain;
+   background-repeat: repeat-y;
  }
 .container{
 border: #002D62;
