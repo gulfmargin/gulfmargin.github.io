@@ -5,6 +5,7 @@ var content = {
   'pt': { 'welcomeMessage': 'Seu Comando, Nossa Carga!' }
 };
 
+
 var language = 'en'; // Default to English
 
 function changeLanguage(newLanguage) {
