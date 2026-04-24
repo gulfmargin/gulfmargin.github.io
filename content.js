@@ -1,8 +1,8 @@
 var content = {
-  'en': { 'welcomeMessage': 'Your Command, Our Cargo!' },
-  'fr': { 'welcomeMessage': 'Votre Commande, Notre Chargement!' },
-  'es': { 'welcomeMessage': 'Tu Orden, Nuestra Carga!' },
-  'pt': { 'welcomeMessage': 'Seu Comando, Nossa Carga!' }
+  'en': { 'welcomeMessage': 'The only constant is change!' },
+  'fr': { 'welcomeMessage': 'La seule constante est le changement!' },
+  'es': { 'welcomeMessage': 'El Unico constante es el cambio!' },
+  'pt': { 'welcomeMessage': 'O unigenito constante e o Cambio!' }
 };
 
 
@@ -58,7 +58,7 @@ var content = {
     'work-in-progress': 'in progress...'
   },
   'fr': {
-    'gulf-margin-title': 'Gulf Margin',
+    'gulf-margin-title': 'Snow Sammy',
     'linkedin-link': 'Linkedin',
     'welcome-message': 'Votre Commande, Notre Chargement',
     'skills-message': 'Soudage, Programmation et Musique',
