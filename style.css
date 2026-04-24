@@ -60,9 +60,9 @@ a {
 button {
     background-color: #a8b95d; /* Green */
     color: white;              /* Text color */
-    padding: 15px 22px;       /* Padding */
+    padding: 15px 32px;       /* Padding */
     border: none;             /* No border */
     border-radius: 5px;       /* Rounded corners */
     cursor: pointer;           /* Pointer cursor on hover */
-    font-size: 10px;          /* Font size */
+    font-size: 16px;          /* Font size */
 }
