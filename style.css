@@ -1,0 +1,68 @@
+
+h1 {
+font-style: italic;
+
+   width: 50%; /* Must define a width for margin: auto to work */
+  margin: 0 auto;
+  text-align: center;
+   color: #FFFFFF;
+  padding: 20px 10px 20px 10px;
+ border: dashed #e0e9f3;
+ background-image: url("3745732.gif");
+}
+header {
+  display: flex;
+  flex-direction: row;
+  color: #F4871E;
+}
+div{
+  font-size: 44px;
+  border:  dashed #e0e9f3;
+  display: flex;
+  background-image: clear;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+body{
+ background-image: url('https://c4.wallpaperflare.com/wallpaper/52/909/130/anime-anime-girls-canaan-wallpaper-preview.jpg');  
+   background-size: contain;
+   background-repeat: repeat-y;
+ }
+.container{
+border: #002D62;
+display: flex;
+flex-direction: row-reverse;
+font-family: Times new roman;
+justify-content: space-around;
+background-color: clear;
+}
+p {
+ color: #F4871E;
+ font-style: italic;
+ text-align: center;
+ padding: 10px 0 20px 20px;
+}
+img{ 
+flex-wrap: wrap;
+}
+a {
+ font-size: 20px;
+ display: flex;
+ flex-direction: row;
+ border: solid #002D62;
+ padding: 10px 10px 10px 10px;
+ color: #EB6E1F;
+}
+
+button {
+    background-color: #a8b95d; /* Green */
+    color: white;              /* Text color */
+    padding: 15px 32px;       /* Padding */
+    border: none;             /* No border */
+    border-radius: 5px;       /* Rounded corners */
+    cursor: pointer;           /* Pointer cursor on hover */
+    font-size: 16px;          /* Font size */
+}
